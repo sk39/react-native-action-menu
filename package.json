@@ -1,6 +1,6 @@
 {
-  "name": "react-native-action-menu",
-  "version": "1.0.0",
+  "name": "@sk39/react-native-action-menu",
+  "version": "1.0.0-alpha.0",
   "description": "Action menu for React Native",
   "main": "dist/module/index.js",
   "react-native": "dist/module/index.js",
@@ -52,5 +52,8 @@
       "module",
       "typescript"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
